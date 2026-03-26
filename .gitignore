@@ -1,0 +1,9 @@
+# Archivos compilados
+/bin/
+*.class
+
+# Archivos de respaldo de JFlex y CUP
+*~
+
+# Archivos de prueba locales (opcional)
+archivo.txt
