@@ -1,11 +1,6 @@
 /* URBE. 7mo Trimestre
  * PROYECTO COMPILADORES (C1113)
  * 
- * 		Edymar Chacin.
- * 		Emmanuel Lugo.
- * 		Fabián Durán.
- * 		Juan Montilla.
- * 
  *  Primera entrega: Editor de texto. 24/09/2024.
  *  
  *  Segunda entrega: Analizador lexico de texto. 04/11/2024.
